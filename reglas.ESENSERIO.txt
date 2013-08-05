@@ -11,3 +11,9 @@ REGLAS DE CODIFICACIÓN EN CSS
 	3. Clases
 3. Orden alfabético todos los estilos
 4. Identar y hacer código LINDO
+
+
+###############
+
+<768 movil
+768-1200 tablet/portatil
